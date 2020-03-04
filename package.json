@@ -1,6 +1,6 @@
 {
-  "name": "@joaovill/vtex-lazyload-avanti",
-  "version": "1.0.4",
+  "name": "vtex-lazyload-avanti",
+  "version": "1.0.5",
   "description": "A [Lazysizes](https://github.com/aFarkas/lazysizes) based plugin Lazyload for Vtex Components.",
   "main": "index.js",
   "scripts": {
