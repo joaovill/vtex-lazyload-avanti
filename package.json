@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/joaovill/vtex-lazyload-avanti#readme",
   "dependencies": {
-    "uglify-js": "^3.8.0"
   },
   "devDependencies": {}
 }
