@@ -1,0 +1,28 @@
+{
+  "name": "@joaovill/vtex-lazyload-avanti",
+  "version": "1.0.0",
+  "description": "A [Lazysizes](https://github.com/aFarkas/lazysizes) based plugin Lazyload for Vtex Components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovill/vtex-lazyload-avanti.git"
+  },
+  "keywords": [
+    "lazyload",
+    "vtex",
+    "avanti"
+  ],
+  "author": "João Pedro Villegas, Daniel Fedatto, Wellington",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaovill/vtex-lazyload-avanti/issues"
+  },
+  "homepage": "https://github.com/joaovill/vtex-lazyload-avanti#readme",
+  "dependencies": {
+    "uglify-js": "^3.8.0"
+  },
+  "devDependencies": {}
+}
